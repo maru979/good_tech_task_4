@@ -1,0 +1,40 @@
+
+
+2019-09-18 17:49:53 Successful authorization.
+2019-09-18 17:49:53 got json queryData
+2019-09-18 17:49:54 User with same 'Phone' already exists and his ID: 12899111
+2019-09-18 17:49:54 -------------
+2019-09-18 17:50:08 Successful authorization.
+2019-09-18 17:50:08 got json queryData
+2019-09-18 17:50:09 New account was created with name: Тк12, phone:89586289619, email: test12@tst.ru
+2019-09-18 17:50:10 User with same 'Phone' already exists and his ID: 12900523
+2019-09-18 17:50:10 -------------
+2019-09-18 17:50:10 -------------
+2019-09-18 17:53:45 Successful authorization.
+2019-09-18 17:53:45 got json queryData
+2019-09-18 17:53:45 New user ID: 12900523
+2019-09-18 17:53:45 -------------
+2019-09-18 17:54:22 Successful authorization.
+2019-09-18 17:54:22 got json queryData
+2019-09-18 17:54:25 New user ID: 12900523
+2019-09-18 17:54:25 -------------
+2019-09-18 17:54:36 Successful authorization.
+2019-09-18 17:54:36 got json queryData
+2019-09-18 17:54:37 New account was created with name: Тк12, phone:89586289819, email: test212@tst.ru
+2019-09-18 17:54:37 New user ID: 12900847
+2019-09-18 17:54:37 -------------
+2019-09-18 17:54:37 -------------
+2019-09-18 17:55:56 Successful authorization.
+2019-09-18 17:55:56 got json queryData
+2019-09-18 17:55:57 New user ID: 12900847
+2019-09-18 17:55:57 -------------
+2019-09-18 17:56:26 Successful authorization.
+2019-09-18 17:56:26 got json queryData
+2019-09-18 17:56:26 User with same 'Phone' already exists and his ID: 12900847
+2019-09-18 17:56:26 -------------
+2019-09-18 17:56:38 Successful authorization.
+2019-09-18 17:56:38 got json queryData
+2019-09-18 17:56:42 New account was created with name: Тк13, phone:89586249819, email: test213@tst.ru
+2019-09-18 17:56:42 New user ID: 12901011
+2019-09-18 17:56:42 -------------
+2019-09-18 17:56:42 -------------
